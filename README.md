@@ -2,7 +2,7 @@
 
 ## My Issue
 
-I usually have multiple tabs of [Google Translate](https://translate.google.com/) open at once, and sometimes I forget which language is being translated in which tab. I usually end up clicking randomly until I find the right tab again. 
+I usually have multiple tabs of [Google Translate](https://translate.google.com/) open at once, and sometimes I forget which tab is translating what. I usually end up clicking randomly until I find the right tab again. 
 
 ## The Solution
 
