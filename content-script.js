@@ -1,6 +1,9 @@
 window.addEventListener('load', () => {
   let prevUrl = 'https://translate.google.com/';
 
+  /** 
+   * I need to observe whenever
+   */
   const observer = new MutationObserver((_) => {
     if (location.href !== prevUrl) {
       prevUrl = location.href;

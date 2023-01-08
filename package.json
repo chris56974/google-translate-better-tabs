@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "zip": "./scripts/zipperup.sh",
+    "mutateManifestUrls": "./scripts/cleanup.sh manifest.json"
+  },
   "devDependencies": {
     "@types/chrome": "^0.0.193"
   }
